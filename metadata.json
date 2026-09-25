@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Gestão Pro",
+  "description": "Sistema completo de gestão de supermercado com controle de estoque, ponto de venda (PDV) e relatórios em dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
